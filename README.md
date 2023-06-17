@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Hardhat Project Template
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
@@ -25,7 +25,7 @@ Three Contracts Deployed
 First One is Proxy Contract and Deploy one time.
 Second implemention contract  this deploy as per our need and all state changes in this 
 contract.
- - Verfify this contract
+ - Verify implemention contract
  - Run the initiziler function of this contract
 Three contract Admin Proxy Contract. In this contract we are used upgrad function.this function take 
 two paremeter porxy contract and second implemention contract address
